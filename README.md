@@ -1,0 +1,2 @@
+# ebobekok
+EbobEkok hesaplayan program
